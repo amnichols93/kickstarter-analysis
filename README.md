@@ -7,7 +7,7 @@ The data suggests that a campaign's success may be affected by the type of campa
 
 This data shows the volume of campaigns in each parent category, and the volume of each campaign outcome within those categories. Theater projects have one of the highest volumes of successful campaigns, based on this data.
 ### Outcomes Based on Launch Date
-![LaunchDateAll](OutcomesBasedonLaunch%50Date_All.png)
+![LaunchDateAll](OutcomesBasedonLaunch%20Date_All.png)
 
 The graph above represents the rate of each campaign outcome based on the launch date for all campaign types.
 ![LaunchDateTheater](OutcomesBasedonLaunchDate_Theater.png)
