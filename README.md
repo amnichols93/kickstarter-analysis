@@ -10,6 +10,7 @@ This data shows the volume of campaigns in each parent category, and the volume 
 ![LaunchDateAll](OutcomesBasedonLaunch%20Date_All.png)
 
 The graph above represents the rate of each campaign outcome based on the launch date for all campaign types.
+
 ![LaunchDateTheater](OutcomesBasedonLaunchDate_Theater.png)
 
 The graph above represents the rate of each campaign outcome based on the launch date for only theater campaigns.
